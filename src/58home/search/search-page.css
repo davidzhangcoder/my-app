@@ -1,0 +1,18 @@
+.hot-key{
+    margin: 49px 5px 5px;
+    background-color: #ccc;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 5px #ccc;
+}
+
+.hot-key-item{
+    display: inline-block;
+    background-color: red;
+    /* background-color: #f2f4f7; */
+
+    margin: 2px 5px;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
